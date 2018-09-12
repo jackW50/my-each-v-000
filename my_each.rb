@@ -10,3 +10,4 @@ end
 
 my_each(array) do |name| 
   puts "name"
+end 
